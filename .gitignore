@@ -1,0 +1,7 @@
+*.xml
+image_metadata_stylesheet.xsl
+imglab
+CMakeFiles/
+web_babies/
+dlib/
+build/
